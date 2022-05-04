@@ -1,0 +1,2 @@
+Pull only the branch corresponding to your roll number.
+You may change the question within 30 minutes of starting of exam.
